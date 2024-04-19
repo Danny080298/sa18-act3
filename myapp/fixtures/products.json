@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "Pokemon Card",
+            "price": "20.33",
+            "description": "Let Catch them all"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "PC gaming",
+            "price": "1299.99",
+            "description": "Let gaming alright"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "Desk",
+            "price": "49.99",
+            "description": "Are you playing online or offline"
+        }
+    }
+]
